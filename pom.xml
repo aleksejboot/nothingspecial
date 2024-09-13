@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>net.alebu</groupId>
-    <artifactId>zedgehomework</artifactId>
+    <artifactId>homework</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>zedgehomework</name>
-    <description>zedgehomework</description>
+    <name>homework</name>
+    <description>homework</description>
     <url/>
     <licenses>
         <license/>
